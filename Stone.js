@@ -1,0 +1,2 @@
+class Stone {}
+//for the stone class the homework said to add the stone file in index.html and also create the stone class but am I supposed to create the stones are not for this class? I didnt understand that.
